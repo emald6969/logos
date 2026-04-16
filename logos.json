@@ -1,0 +1,37 @@
+[
+  {
+    "title": "AppleTV",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/apple.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/apple.jpg"
+  },
+  {
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/crunchyroll.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/crunchyroll.jpg"
+  },
+  {
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/disney.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/disney.jpg"
+  },
+  {
+    "title": "HBO",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/hbo.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/hbo.jpg"
+  },
+  {
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/netflix.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/netflix.jpg"
+  },
+  {
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/paramount.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/paramount.png"
+  },
+  {
+    "title": "PrimeVideo",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/prime.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/prime.jpg"
+  }
+]
