@@ -5,6 +5,16 @@
     "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/apple.jpg"
   },
   {
+    "title": "SkyShowtime",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/skyshowtime.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/skyshowtime.jpg"
+  },
+    {
+    "title": "AMC+",
+    "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/amc.mp4",
+    "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/amc.jpg"
+  },
+    {
     "title": "Crunchyroll",
     "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/crunchyroll.mp4",
     "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/crunchyroll.jpg"
@@ -35,7 +45,7 @@
     "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/hulu.jpg"
   },
   {
-    "title": "PrimeVideo",
+    "title": "Prime Video",
     "videoURL": "https://raw.githubusercontent.com/emald6969/logos/main/prime.mp4",
     "logoURL": "https://raw.githubusercontent.com/emald6969/logos/main/prime.jpg"
   }
