@@ -1,0 +1,389 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/netflix.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest Netflix Movies",
+        "listSlug" : "latest-netflix-movies",
+        "traktId" : 33032847,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Netflix Movies",
+          "listSlug" : "latest-netflix-movies",
+          "traktId" : 33032847,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Netflix Shows",
+          "listSlug" : "latest-netflix-shows",
+          "traktId" : 33032846,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "8097FE65-4642-4FD7-AE2D-D7944F7D579C",
+    "layout" : "Wide",
+    "name" : "Netflix"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/apple.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest Apple TV+ Movies",
+        "listSlug" : "latest-apple-tv-movies",
+        "traktId" : 33032858,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Apple TV+ Movies",
+          "listSlug" : "latest-apple-tv-movies",
+          "traktId" : 33032858,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Apple TV+ Shows",
+          "listSlug" : "latest-apple-tv-shows",
+          "traktId" : 33032855,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "D7725422-1A85-4300-A7C4-150A5E6B5464",
+    "layout" : "Wide",
+    "name" : "Apple TV"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/prime.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest Amazon Prime Movies",
+        "listSlug" : "latest-amazon-prime-movies",
+        "traktId" : 33032854,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Amazon Prime Movies",
+          "listSlug" : "latest-amazon-prime-movies",
+          "traktId" : 33032854,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Amazon Prime Shows",
+          "listSlug" : "latest-amazon-prime-shows",
+          "traktId" : 33032850,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "89D99139-4BA7-4CB6-8BB8-29CD5C736EE2",
+    "layout" : "Wide",
+    "name" : "Prime Video"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/disney.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest Disney+ Movies",
+        "listSlug" : "latest-disney-movies",
+        "traktId" : 33032861,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Disney+ Movies",
+          "listSlug" : "latest-disney-movies",
+          "traktId" : 33032861,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Disney+ Shows",
+          "listSlug" : "latest-disney-shows",
+          "traktId" : 33032860,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "F4C2FCF2-F120-4108-BD79-7938637B198E",
+    "layout" : "Wide",
+    "name" : "Disney+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/paramount.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest Paramount+ Movies",
+        "listSlug" : "latest-paramount-movies",
+        "traktId" : 33032868,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Paramount+ Movies",
+          "listSlug" : "latest-paramount-movies",
+          "traktId" : 33032868,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Paramount+ Shows",
+          "listSlug" : "latest-paramount-shows",
+          "traktId" : 33032863,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "558EA22F-0F1D-4562-B5DF-414341EAA5DA",
+    "layout" : "Wide",
+    "name" : "Paramount+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/hbo.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest HBO Max Movies",
+        "listSlug" : "latest-hbo-max-movies",
+        "traktId" : 33032875,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest HBO Max Movies",
+          "listSlug" : "latest-hbo-max-movies",
+          "traktId" : 33032875,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest HBO Max Shows",
+          "listSlug" : "latest-hbo-max-shows",
+          "traktId" : 33032872,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "8303CC76-B152-4CCB-B6B9-803E5F7D110F",
+    "layout" : "Wide",
+    "name" : "HBO Max"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/hulu.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Latest Hulu Movies",
+        "listSlug" : "latest-hulu-movies",
+        "traktId" : 33118923,
+        "username" : "snoak"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Hulu Movies",
+          "listSlug" : "latest-hulu-movies",
+          "traktId" : 33118923,
+          "username" : "snoak"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Hulu Shows",
+          "listSlug" : "latest-hulu-shows",
+          "traktId" : 33118912,
+          "username" : "snoak"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "943F3FFD-3647-414A-8941-5A2276C2A522",
+    "layout" : "Wide",
+    "name" : "Hulu"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/crunchyroll.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "CRUNCHYROLL",
+        "listSlug" : "crunchyroll",
+        "traktId" : 29336078,
+        "username" : "martincz29"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "CRUNCHYROLL",
+          "listSlug" : "crunchyroll",
+          "traktId" : 29336078,
+          "username" : "martincz29"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "7389B94E-4E97-4FF3-A634-05A00D253BFD",
+    "layout" : "Wide",
+    "name" : "Crunchyroll"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/skyshowtime.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "SkyShowtime Originals & Exclusives",
+        "listSlug" : "skyshowtime-originals-exclusives",
+        "traktId" : 23964865,
+        "username" : "crossoverenserie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "SkyShowtime Originals & Exclusives",
+          "listSlug" : "skyshowtime-originals-exclusives",
+          "traktId" : 23964865,
+          "username" : "crossoverenserie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "28C2D654-BB42-444A-9237-B11DC263A988",
+    "layout" : "Wide",
+    "name" : "SkyShowtime"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/peacock.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Peacock Originals & Exclusives",
+        "listSlug" : "peacock-originals-exclusives",
+        "traktId" : 23237660,
+        "username" : "crossoverenserie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Peacock Originals & Exclusives",
+          "listSlug" : "peacock-originals-exclusives",
+          "traktId" : 23237660,
+          "username" : "crossoverenserie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "B271FB64-74D0-48BA-8F3C-D26C0AE1B2FC",
+    "layout" : "Wide",
+    "name" : "Peacock"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/amc.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Streaming Shows +AMC FX",
+        "listSlug" : "streaming-shows-amc-fx",
+        "traktId" : 11355596,
+        "username" : "Temylance"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Streaming Shows +AMC FX",
+          "listSlug" : "streaming-shows-amc-fx",
+          "traktId" : 11355596,
+          "username" : "Temylance"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "8E053B99-7E30-4BE4-A4E8-20322093FE5A",
+    "layout" : "Wide",
+    "name" : "AMC+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/shudder.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Shudder",
+        "listSlug" : "shudder",
+        "traktId" : 23424101,
+        "username" : "RavynLoony"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Shudder",
+          "listSlug" : "shudder",
+          "traktId" : 23424101,
+          "username" : "RavynLoony"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "4722DCC8-0B34-4DCE-BA7C-004B4807466F",
+    "layout" : "Wide",
+    "name" : "SHUDDER"
+  }
+]
