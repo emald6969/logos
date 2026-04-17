@@ -219,6 +219,24 @@
                 {
                   "kind" : "traktList",
                   "payload" : {
+                    "listName" : "Starz\/Encore\/AMC",
+                    "listSlug" : "starz-encore-amc",
+                    "traktId" : 11392908,
+                    "username" : "moses456"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "2790A786-CC60-47E0-98E8-D445F0A365F3",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/starz.jpg",
+              "title" : "STARZ"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
                     "listName" : "SkyShowtime Originals & Exclusives",
                     "listSlug" : "skyshowtime-originals-exclusives",
                     "traktId" : 23964865,
@@ -237,24 +255,6 @@
                 {
                   "kind" : "traktList",
                   "payload" : {
-                    "listName" : "Peacock Originals & Exclusives",
-                    "listSlug" : "peacock-originals-exclusives",
-                    "traktId" : 23237660,
-                    "username" : "crossoverenserie"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "B271FB64-74D0-48BA-8F3C-D26C0AE1B2FC",
-              "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/peacock.jpg",
-              "title" : "Peacock"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
                     "listName" : "Streaming Shows +AMC FX",
                     "listSlug" : "streaming-shows-amc-fx",
                     "traktId" : 11355596,
@@ -267,6 +267,24 @@
               "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/amc.jpg",
               "title" : "AMC+"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Peacock Originals & Exclusives",
+                    "listSlug" : "peacock-originals-exclusives",
+                    "traktId" : 23237660,
+                    "username" : "crossoverenserie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "B271FB64-74D0-48BA-8F3C-D26C0AE1B2FC",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/peacock.jpg",
+              "title" : "Peacock"
             },
             {
               "dataSources" : [
