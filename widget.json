@@ -30,7 +30,7 @@
               ],
               "hideTitle" : true,
               "id" : "8097FE65-4642-4FD7-AE2D-D7944F7D579C",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/netflix.jpg",
               "title" : "Netflix"
             },
@@ -57,7 +57,7 @@
               ],
               "hideTitle" : true,
               "id" : "D7725422-1A85-4300-A7C4-150A5E6B5464",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/apple.jpg",
               "title" : "Apple TV"
             },
@@ -84,7 +84,7 @@
               ],
               "hideTitle" : true,
               "id" : "89D99139-4BA7-4CB6-8BB8-29CD5C736EE2",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/prime.jpg",
               "title" : "Prime Video"
             },
@@ -111,7 +111,7 @@
               ],
               "hideTitle" : true,
               "id" : "F4C2FCF2-F120-4108-BD79-7938637B198E",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/disney.jpg",
               "title" : "Disney+"
             },
@@ -138,7 +138,7 @@
               ],
               "hideTitle" : true,
               "id" : "558EA22F-0F1D-4562-B5DF-414341EAA5DA",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/paramount.jpg",
               "title" : "Paramount+"
             },
@@ -165,7 +165,7 @@
               ],
               "hideTitle" : true,
               "id" : "8303CC76-B152-4CCB-B6B9-803E5F7D110F",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/hbo.jpg",
               "title" : "HBO Max"
             },
@@ -192,7 +192,7 @@
               ],
               "hideTitle" : true,
               "id" : "943F3FFD-3647-414A-8941-5A2276C2A522",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/hulu.jpg",
               "title" : "Hulu"
             },
@@ -210,7 +210,7 @@
               ],
               "hideTitle" : true,
               "id" : "7389B94E-4E97-4FF3-A634-05A00D253BFD",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/crunchyroll.jpg",
               "title" : "Crunchyroll"
             },
@@ -228,7 +228,7 @@
               ],
               "hideTitle" : true,
               "id" : "28C2D654-BB42-444A-9237-B11DC263A988",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/skyshowtime.jpg",
               "title" : "SkyShowtime"
             },
@@ -246,7 +246,7 @@
               ],
               "hideTitle" : true,
               "id" : "B271FB64-74D0-48BA-8F3C-D26C0AE1B2FC",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/peacock.jpg",
               "title" : "Peacock"
             },
@@ -264,7 +264,7 @@
               ],
               "hideTitle" : true,
               "id" : "8E053B99-7E30-4BE4-A4E8-20322093FE5A",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/amc.jpg",
               "title" : "AMC+"
             },
@@ -282,7 +282,7 @@
               ],
               "hideTitle" : true,
               "id" : "4722DCC8-0B34-4DCE-BA7C-004B4807466F",
-              "imageAspect" : "wide",
+              "imageAspect" : "square",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/shudder.jpg",
               "title" : "SHUDDER"
             }
