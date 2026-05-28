@@ -1,0 +1,506 @@
+[
+  {
+    "id": "aaa6dc60-0421-44ed-8299-c3f3be6dae5d",
+    "title": "20s Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/decades/20s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/L5jnk6gT/20s.png"
+  },
+  {
+    "id": "e061b6ad-6740-45bb-87cc-ecc6d2c8f5c1",
+    "title": "10s Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/decades/10s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/br1s0NSR/10s.png"
+  },
+  {
+    "id": "028d99c5-3620-4ce6-ab23-3bcee2b2af6c",
+    "title": "00s Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/decades/00s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/RhwN1VJK/00s.png"
+  },
+  {
+    "id": "7628deeb-7908-4b1b-8137-dab1009dd684",
+    "title": "90s Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/decades/90s_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/J7XDCKYH/90s.png"
+  },
+  {
+    "id": "1db2d2fe-a7e7-4cec-95fa-aea5ad6f5b84",
+    "title": "80s Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/decades/80s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/qBKhHQDz/80s.png"
+  },
+  {
+    "id": "c0fcf305-41cb-4dd3-8b5e-cc6ef4b59c92",
+    "title": "70s Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/decades/70s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/VvXd9L0j/70s.png"
+  },
+  {
+    "id": "1031cff9-360f-41aa-b99b-296d9d247642",
+    "title": "Action",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Action_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/X7gBJLM1/Action.png"
+  },
+  {
+    "id": "ce5aa174-1a30-476e-8158-d9064a132986",
+    "title": "Comedy",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Comedy.mp4",
+    "backgroundURL": "https://i.postimg.cc/3xJ4DGY5/Comedy.png"
+  },
+  {
+    "id": "b94fc83f-f0f3-4903-acc1-8bd8cfb05011",
+    "title": "Mystery",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Mystery_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/0yW6GNym/Mystery.png"
+  },
+  {
+    "id": "99045e9c-b8e9-4dec-b594-b6b6a3a412bf",
+    "title": "Fantasy / Sci-Fi",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Fantasy-Sci-Fi.mp4",
+    "backgroundURL": "https://i.postimg.cc/598W8k2h/Fantasy-Sci-Fi.png"
+  },
+  {
+    "id": "d1b23af8-56b6-4b9a-8b4e-d36de2ff729b",
+    "title": "Crime",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Crime_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/FHsdJSNv/Crime.png"
+  },
+  {
+    "id": "948ce92d-c5af-47c1-b362-8c4fb2961e61",
+    "title": "Thriller",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Thriller_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/t4S1dg4K/Thriller.png"
+  },
+  {
+    "id": "3841f603-e213-409c-b241-4815ead7f986",
+    "title": "Romance",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Romance.mp4",
+    "backgroundURL": "https://i.postimg.cc/Jz6y3hzv/Romance.png"
+  },
+  {
+    "id": "7a14f2af-8e71-4247-a066-4bf970dbfdbb",
+    "title": "Drama",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Drama.mp4",
+    "backgroundURL": "https://i.postimg.cc/Gmh8sDd2/Drama.png"
+  },
+  {
+    "id": "2c3fcaca-2fdf-45e0-b900-f24e35f1151a",
+    "title": "Family",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Family_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/zGXbRh8V/Family.png"
+  },
+  {
+    "id": "a1f8fb22-8351-4eae-b7e6-0caa656fcb2d",
+    "title": "Adventure",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Adventure.mp4",
+    "backgroundURL": "https://i.postimg.cc/kXyR4srj/Adventure.png"
+  },
+  {
+    "id": "236c01a5-52ae-4b98-aa7b-83958a16f0a6",
+    "title": "Animation",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Animation_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/rF9Rmj6P/Animation.png"
+  },
+  {
+    "id": "1015561f-4b89-4da7-9049-47a72e8f0e34",
+    "title": "Reality TV",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Reality%20TV_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/fR237bRP/Reality-TV.png"
+  },
+  {
+    "id": "3ac5a239-ae7a-48a4-a2d9-2948344e189c",
+    "title": "Horror",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Horror.mp4",
+    "backgroundURL": "https://i.postimg.cc/htyJ8Gtm/Horror.png"
+  },
+  {
+    "id": "18be0eb2-5d46-46d2-b6cb-dd92c5dd27a7",
+    "title": "Documentary",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Documentary_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/dVtkTCw0/Documentary.png"
+  },
+  {
+    "id": "f1108d1c-fa94-4111-87df-2549ed1380d7",
+    "title": "History",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/History_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/CxPZCKxR/History.png"
+  },
+  {
+    "id": "27bf7292-bdad-4265-bbfa-d610c4b8da68",
+    "title": "War",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/War.mp4",
+    "backgroundURL": "https://i.postimg.cc/s2MMTRM8/War.png"
+  },
+  {
+    "id": "c54ec1a1-ecb5-4cdf-9834-ecca5dc29dcf",
+    "title": "Musical",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Music.mp4",
+    "backgroundURL": "https://i.postimg.cc/527H5t28/Music.png"
+  },
+  {
+    "id": "21df710d-fc38-4fb8-89bc-a8f79d1d083f",
+    "title": "Stand-Up Comedy",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Stand-Up%20Comedy.mp4",
+    "backgroundURL": "https://i.postimg.cc/htyJ8GtN/Stand-Up-Comedy.png"
+  },
+  {
+    "id": "29db0079-ab10-428e-8d37-5d636982492f",
+    "title": "Anime",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Anime_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/xTPNC5rZ/Anime.png"
+  },
+  {
+    "id": "452d79f8-5b92-4c5a-907f-2e58368d47c8",
+    "title": "KDrama",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/KDrama.mp4",
+    "backgroundURL": "https://i.postimg.cc/qB2H2Z7f/KDrama.png"
+  },
+  {
+    "id": "808fc095-87a4-4a3f-90b8-909440f8ff90",
+    "title": "Bollywood",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Bollywood.mp4",
+    "backgroundURL": "https://i.postimg.cc/Nfx2MDqG/Bollywood.png"
+  },
+  {
+    "id": "f77e6dee-dbba-4de3-9eaf-35039f81adce",
+    "title": "Austria",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Austria_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/zXkHB7Z5/Austria.png"
+  },
+  {
+    "id": "e415b163-f524-4cb8-90e7-6b47fbd7802c",
+    "title": "Christmas",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/genres/Christmas_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/bNRSJgcw/Christmas.png"
+  },
+  {
+    "id": "978ca4b4-91c4-4790-9c7e-d35ba314b555",
+    "title": "Netflix",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/netflix.mp4",
+    "backgroundURL": "https://i.postimg.cc/3R9D8yrK/netflix.png"
+  },
+  {
+    "id": "f1d1b42f-4198-485a-85d8-6d1f1517acce",
+    "title": "Disney+",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/disney%2B.mp4",
+    "backgroundURL": "https://i.postimg.cc/pTknW9VP/disney.png"
+  },
+  {
+    "id": "64d0e002-0248-4cf8-b5d6-123a34373a5f",
+    "title": "Apple TV",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/apple%20tv.mp4",
+    "backgroundURL": "https://i.postimg.cc/j5vJxWqT/apple-tv.png"
+  },
+  {
+    "id": "0362ed1d-45cc-477b-ab8e-87e737d2a965",
+    "title": "Prime Video",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/prime.mp4",
+    "backgroundURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png"
+  },
+  {
+    "id": "8364db69-a74c-42d7-910a-862bfba67bf2",
+    "title": "HBO Max",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/hbo%20max.mp4",
+    "backgroundURL": "https://i.postimg.cc/3R9D8yr8/hbo-max.png"
+  },
+  {
+    "id": "751740f7-e75e-44d2-8436-30989f0d09be",
+    "title": "Paramount+",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/paramount%2B.mp4",
+    "backgroundURL": "https://i.postimg.cc/gJ46zwcm/paramount.png"
+  },
+  {
+    "id": "bd7f852a-5b5c-41f7-8fbf-61a3f3cf1444",
+    "title": "Hulu",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/hulu.mp4",
+    "backgroundURL": "https://i.postimg.cc/bNM4BsR1/hulu.png"
+  },
+  {
+    "id": "36bdb3b0-bfe5-4125-8a1b-ee5ad940f69f",
+    "title": "Peacock",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/peacock.mp4",
+    "backgroundURL": "https://i.postimg.cc/fR91nDHV/peacock.png"
+  },
+  {
+    "id": "92652ab5-145b-4c43-b9ea-76cbbdadaf10",
+    "title": "STARZ",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/starz.mp4",
+    "backgroundURL": "https://i.postimg.cc/4NZrCrDB/starz.png"
+  },
+  {
+    "id": "9e923abc-ecab-408b-96d7-184c86244902",
+    "title": "MUBI",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/mubi.mp4",
+    "backgroundURL": "https://i.postimg.cc/26RLyjtL/mubi.png"
+  },
+  {
+    "id": "dd182a3d-dc94-43b9-be71-4d7fb5f1a510",
+    "title": "Crunchyroll",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/crunchyroll.mp4",
+    "backgroundURL": "https://i.postimg.cc/Prc0RPMp/crunchyroll.png"
+  },
+  {
+    "id": "853d3446-664a-412b-b974-d5191930172d",
+    "title": "The Criterion Channel",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/criterion.mp4",
+    "backgroundURL": "https://i.postimg.cc/KvTrvTfN/criterion-channel.png"
+  },
+  {
+    "id": "9a46e01b-622f-4e65-83e6-33e2bd6ec27c",
+    "title": "Shudder",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/shudder.mp4",
+    "backgroundURL": "https://i.postimg.cc/76XTHCPD/shudder.png"
+  },
+  {
+    "id": "d7573d6c-0080-4914-b597-195e9ab97d2f",
+    "title": "AMC+",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/amc%2B.mp4",
+    "backgroundURL": "https://i.postimg.cc/KctdHZHg/amc.png"
+  },
+  {
+    "id": "153808e5-88c8-407d-b9b5-b08d2957af2c",
+    "title": "britbox",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/britbox.mp4",
+    "backgroundURL": "https://i.postimg.cc/pX736pBm/britbox.png"
+  },
+  {
+    "id": "3c795950-fdb5-4f49-97de-c5fb486787ed",
+    "title": "Discovery+",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/discovery%2B.mp4",
+    "backgroundURL": "https://i.postimg.cc/2jnPKzKL/discovery.png"
+  },
+  {
+    "id": "1d2cf333-78f7-4d0b-8066-9aecead88e06",
+    "title": "Curiosity Stream",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/curiosity.mp4",
+    "backgroundURL": "https://i.postimg.cc/RZX6s8cF/curiosity.png"
+  },
+  {
+    "id": "1276b046-3316-4b9a-961f-b51a266f8ebc",
+    "title": "MagellanTV",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/magellantv.mp4",
+    "backgroundURL": "https://i.postimg.cc/kMWkpnpx/magellantv.png"
+  },
+  {
+    "id": "66ac6c8a-ec12-40a5-8e74-b82d6245fdd8",
+    "title": "Netflix Kids",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/services/netflix%20kids.mp4",
+    "backgroundURL": "https://i.postimg.cc/fTZ646GC/netflix-kids.png"
+  },
+  {
+    "id": "d9500bab-cc90-4b05-9e33-898e94e690cf",
+    "title": "Academy Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/academy%20awards.mp4",
+    "backgroundURL": "https://i.postimg.cc/fb4dMhv2/academy-awards.png"
+  },
+  {
+    "id": "039f7b27-9c1d-4069-8ccd-166db8afef9b",
+    "title": "Academy Awards: Best Picture",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/best%20picture.mp4",
+    "backgroundURL": "https://i.postimg.cc/YScFtwxV/best-picture.png"
+  },
+  {
+    "id": "c3873bd2-2cb6-4866-9eea-f2f962162088",
+    "title": "Primetime Emmy Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/emmys.mp4",
+    "backgroundURL": "https://i.postimg.cc/jjz75k8Z/emmys.png"
+  },
+  {
+    "id": "6106af0a-100a-47ca-b7dd-738e42aef900",
+    "title": "Golden Globe Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/golden%20globes.mp4",
+    "backgroundURL": "https://i.postimg.cc/k5xb4hjY/golden-globes.png"
+  },
+  {
+    "id": "7c5c45bf-04b6-40bc-9127-67a52b73bc32",
+    "title": "BAFTA Film Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/bafta.mp4",
+    "backgroundURL": "https://i.postimg.cc/131RtRL3/bafta.png"
+  },
+  {
+    "id": "3efa341e-3584-4d0e-adce-54b18d3c8fa0",
+    "title": "Cannes Film Festival Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/cannes.mp4",
+    "backgroundURL": "https://i.postimg.cc/cJq3dNc2/cannes.png"
+  },
+  {
+    "id": "6d05fbf8-0ab4-4cba-8588-088552795c7d",
+    "title": "Venice Film Festival Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/venice.mp4",
+    "backgroundURL": "https://i.postimg.cc/wBhmvbWb/venice.png"
+  },
+  {
+    "id": "0a492909-97e6-4b73-b1b7-0c0b060776cc",
+    "title": "Berlin International Film Festival Awards",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/awards/berlinale.mp4",
+    "backgroundURL": "https://i.postimg.cc/hGFmKq0N/berlinale.png"
+  },
+  {
+    "id": "54afd1f1-207d-4ddb-912a-be021d684555",
+    "title": "Watchlist",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/watchlist.mp4",
+    "backgroundURL": "https://i.postimg.cc/vH9k7TLG/watchlist.png"
+  },
+  {
+    "id": "bdf49c8d-7d73-47f1-9f7a-1354488181ef",
+    "title": "Trending Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/trending%20movies.mp4",
+    "backgroundURL": "https://i.postimg.cc/gkHRm77c/trending-movies.png"
+  },
+  {
+    "id": "76a18d5d-a119-4c33-bf7b-5efa37b6c2fe",
+    "title": "Trending Shows",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/trending%20shows.mp4",
+    "backgroundURL": "https://i.postimg.cc/nhVmzk8c/trending-shows.png"
+  },
+  {
+    "id": "55bc3ed2-3e87-463b-accb-fbe5b27b93b1",
+    "title": "Latest Movies",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/latest%20movies.mp4",
+    "backgroundURL": "https://i.postimg.cc/sD4SsLLj/latest-movies.png"
+  },
+  {
+    "id": "2edda9b9-dd06-44f7-8a13-9724f5ff8080",
+    "title": "Latest Shows",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/latest%20shows.mp4",
+    "backgroundURL": "https://i.postimg.cc/TYJmfssR/latest-shows.png"
+  },
+  {
+    "id": "fb4ce2a2-4f4c-49e0-bedc-05e81eb40afa",
+    "title": "Airing Soon",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/airing%20soon.mp4",
+    "backgroundURL": "https://i.postimg.cc/CxM81NyV/airing-soon.png"
+  },
+  {
+    "id": "046c0bd2-01a9-461a-ae45-5c15c9eccea6",
+    "title": "Upcoming",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/upcoming.mp4",
+    "backgroundURL": "https://i.postimg.cc/K8cTzNXj/upcoming.png"
+  },
+  {
+    "id": "102a296c-6ffe-44d1-8f4c-8dc5a378c2c2",
+    "title": "Watched",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/discover/watched.mp4",
+    "backgroundURL": "https://i.postimg.cc/qMnScqX4/watched.png"
+  },
+  {
+    "id": "7289b859-f0bc-4892-8324-5bd8cdeffb02",
+    "title": "Warner Bros. Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/warner%20bros.mp4",
+    "backgroundURL": "https://i.postimg.cc/65B5yJLY/warner-bros.png"
+  },
+  {
+    "id": "33e973e2-3848-471f-a0de-4aa90be7833e",
+    "title": "Universal Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/universal.mp4",
+    "backgroundURL": "https://i.postimg.cc/TYTYpMq9/universal.png"
+  },
+  {
+    "id": "f9b99dce-4260-464c-8dc9-64b6bf8c3168",
+    "title": "Paramount Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/paramount.mp4",
+    "backgroundURL": "https://i.postimg.cc/VLzLdQBX/paramount.png"
+  },
+  {
+    "id": "bc91fa42-b9e6-4976-b6dd-940eca480e1d",
+    "title": "A24",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/a24.mp4",
+    "backgroundURL": "https://i.postimg.cc/WpG1Nbr1/a24.png"
+  },
+  {
+    "id": "3cbf6762-9342-4d6f-a12a-b165275b0960",
+    "title": "Metro-Goldwyn-Mayer",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/mgm.mp4",
+    "backgroundURL": "https://i.postimg.cc/0yNF111W/mgm.png"
+  },
+  {
+    "id": "da35171c-f871-41ef-b39c-1e7c82528ea3",
+    "title": "20th Century Studios",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/20th%20century.mp4",
+    "backgroundURL": "https://i.postimg.cc/QNQd8x5t/20th-century.png"
+  },
+  {
+    "id": "36fdf5db-a55c-47a6-b23d-ae8c7eaa6929",
+    "title": "Columbia Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/columbia.mp4",
+    "backgroundURL": "https://i.postimg.cc/dQ2Vstd3/columbia.png"
+  },
+  {
+    "id": "783bd799-c7a1-40c5-8c2e-8c1806925af5",
+    "title": "Walt Disney Animation Studio",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/disney.mp4",
+    "backgroundURL": "https://i.postimg.cc/tR34qCP6/disney.png"
+  },
+  {
+    "id": "07b41c11-9870-4ff0-ab2e-5ce334857839",
+    "title": "DreamWorks Animation",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/dreamworks.mp4",
+    "backgroundURL": "https://i.postimg.cc/WpG1Nbrg/dreamworks.png"
+  },
+  {
+    "id": "e196bb7f-4e00-4cf1-ae93-ae983cd31a65",
+    "title": "Pixar Animation Studios",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/pixar.mp4",
+    "backgroundURL": "https://i.postimg.cc/SNmNJF7W/pixar.png"
+  },
+  {
+    "id": "055a8668-5299-4acb-aa0b-d9309e8fa9b5",
+    "title": "Illumination",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/illumination.mp4",
+    "backgroundURL": "https://i.postimg.cc/bYxwyNbb/illumination.png"
+  },
+  {
+    "id": "5bd0c30c-c6f3-4dcd-bd17-ecbbf5ef9e06",
+    "title": "Marvel Studios",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/marvel.mp4",
+    "backgroundURL": "https://i.postimg.cc/CLwLzTHR/marvel.png"
+  },
+  {
+    "id": "b866c5a1-d64d-4608-ba71-595fd9fe9c12",
+    "title": "Lucasfilm",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/lucasfilm.mp4",
+    "backgroundURL": "https://i.postimg.cc/J7Nzr4J3/lucasfilm.png"
+  },
+  {
+    "id": "f9dc89aa-3983-4335-b7e2-004fc5643054",
+    "title": "New Line Cinema",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/new%20line%20cinema.mp4",
+    "backgroundURL": "https://i.postimg.cc/0292bRdw/new-line-cinema.png"
+  },
+  {
+    "id": "b0ffb709-4eca-4025-92da-b7f12cb36eb5",
+    "title": "Miramax",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/miramax.mp4",
+    "backgroundURL": "https://i.postimg.cc/ZKJKCtFB/miramax.png"
+  },
+  {
+    "id": "eee634c5-0067-4df6-9412-f3f63fda305a",
+    "title": "Searchlight Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/searchlight.mp4",
+    "backgroundURL": "https://i.postimg.cc/xT9TcDyv/searchlight.png"
+  },
+  {
+    "id": "96ddf9b1-db57-4470-8c48-976b0a31b200",
+    "title": "Touchstone Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/touchstone.mp4",
+    "backgroundURL": "https://i.postimg.cc/PrdrPszb/touchstone.png"
+  },
+  {
+    "id": "2749443c-4c61-4135-858d-ef4204a94dfb",
+    "title": "TriStar Pictures",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/tristar.mp4",
+    "backgroundURL": "https://i.postimg.cc/9FcFr5tb/tristar.png"
+  },
+  {
+    "id": "90eab967-70bd-433c-bafb-21b99f08dcf1",
+    "title": "Lionsgate",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/lionsgate.mp4",
+    "backgroundURL": "https://i.postimg.cc/c1RLx4Yf/lionsgate.png"
+  },
+  {
+    "id": "87730869-a35c-4a2b-afb9-d2ef2236b50b",
+    "title": "Studio Ghibli",
+    "videoURL": "https://cdn.jsdelivr.net/gh/nobnobz/Omni-Template-Bot-Bid-Raiser@main/Other/animated%20covers/studios/ghibli.MP4",
+    "backgroundURL": "https://i.postimg.cc/tR34qCP1/Bild.png"
+  }
+]
