@@ -176,7 +176,7 @@
       "imageURL" : "https:\/\/raw.githubusercontent.com\/emald6969\/logos\/main\/filters\/rr4k.png",
       "isEnabled" : true,
       "name" : "4K Ultra HD",
-      "pattern" : "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
+      "pattern" : "(?i)\\b(2160p|uhd|ultra\\s*hd)\\b|4k",
       "tagColor" : "#00000000",
       "tagStyle" : "filled and bordered",
       "textColor" : "#00000000",
